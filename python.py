@@ -1,6 +1,6 @@
 num1 = 18
 num2 = 7
-
+#this line is added useing nano editor 
 # Adding two numbers
 sum = num1 + num2
 
